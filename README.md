@@ -52,6 +52,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import real from 'https://cdn.jsdelivr.net/gh/stdlib-js/complex-float32-real@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/complex-float32-real/tags). For example,
+
+```javascript
 import real from 'https://cdn.jsdelivr.net/gh/stdlib-js/complex-float32-real@v0.1.0-deno/mod.js';
 ```
 
@@ -93,7 +98,7 @@ var re = real( z );
 import Complex64 from 'https://cdn.jsdelivr.net/gh/stdlib-js/complex-float32-ctor@deno/mod.js';
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-discrete-uniform@deno/mod.js';
 import filledarrayBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-filled-by@deno/mod.js';
-import real from 'https://cdn.jsdelivr.net/gh/stdlib-js/complex-float32-real@v0.1.0-deno/mod.js';
+import real from 'https://cdn.jsdelivr.net/gh/stdlib-js/complex-float32-real@deno/mod.js';
 
 function random() {
     return new Complex64( discreteUniform( -10, 10 ), discreteUniform( -10, 10 ) );
