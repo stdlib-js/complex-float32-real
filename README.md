@@ -246,7 +246,7 @@ int main( void ) {
 ## See Also
 
 -   <span class="package-name">[`@stdlib/complex-float32/imag`][@stdlib/complex/float32/imag]</span><span class="delimiter">: </span><span class="description">return the imaginary component of a single-precision complex floating-point number.</span>
--   <span class="package-name">[`@stdlib/complex-real`][@stdlib/complex/real]</span><span class="delimiter">: </span><span class="description">return the real component of a double-precision complex floating-point number.</span>
+-   <span class="package-name">[`@stdlib/complex-float64/real`][@stdlib/complex/float64/real]</span><span class="delimiter">: </span><span class="description">return the real component of a double-precision complex floating-point number.</span>
 -   <span class="package-name">[`@stdlib/complex-float32/reim`][@stdlib/complex/float32/reim]</span><span class="delimiter">: </span><span class="description">return the real and imaginary components of a single-precision complex floating-point number.</span>
 
 </section>
@@ -329,7 +329,7 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 
 [@stdlib/complex/float32/imag]: https://github.com/stdlib-js/complex-float32-imag
 
-[@stdlib/complex/real]: https://github.com/stdlib-js/complex-real
+[@stdlib/complex/float64/real]: https://github.com/stdlib-js/complex-float64-real
 
 [@stdlib/complex/float32/reim]: https://github.com/stdlib-js/complex-float32-reim
 
