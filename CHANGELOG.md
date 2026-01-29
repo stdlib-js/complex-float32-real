@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-07-25)
+## Unreleased (2026-01-29)
 
 <section class="issues">
 
@@ -24,7 +24,7 @@ This release closes the following issue:
 
 <details>
 
--   [`53c6429`](https://github.com/stdlib-js/stdlib/commit/53c6429aee35e48e178bc96072a39d1d9db325f3) - **chore:** fix EditorConfig lint errors [(#7737)](https://github.com/stdlib-js/stdlib/pull/7737) _(by AryanJ18, Athan Reines)_
+-   [`53c6429`](https://github.com/stdlib-js/stdlib/commit/53c6429aee35e48e178bc96072a39d1d9db325f3) - **chore:** fix EditorConfig lint errors [(#7737)](https://github.com/stdlib-js/stdlib/pull/7737) _(by Aryan J, Athan Reines)_
 -   [`2777e4b`](https://github.com/stdlib-js/stdlib/commit/2777e4be161869d09406e3b17947d24c64b47af2) - **bench:** resolve lint errors in benchmarks _(by Athan Reines)_
 
 </details>
@@ -39,7 +39,7 @@ This release closes the following issue:
 
 A total of 2 people contributed to this release. Thank you to the following contributors:
 
--   AryanJ18
+-   Aryan J
 -   Athan Reines
 
 </section>
